@@ -1,0 +1,14 @@
+belong(s) to the category of	M-1
+is a category subset of	M-1
+may cause	1-1
+is a subtype of	M-1
+is a risk factor for	1-1
+is associated with	1-1
+may contraindicate	1-1
+interacts with	1-1
+belongs to the drug family of	M-1
+belongs to drug super-family	M-1
+is a vector for	1-1
+may be allelic with	1-1
+see also	1-1
+is an ingredient of	1-1
